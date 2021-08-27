@@ -1,5 +1,9 @@
 # ECE 364: Machine Learning for Predictive Data Analytics
 
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-red.svg)](https://github.com/JHA-Lab/ece364/blob/main/LICENSE)
+![Python 3.7, 3.8](https://img.shields.io/badge/python-3.7%20%7C%203.8-blue.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJHA-Lab%2Fece364&count_bg=%23FFC401&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Welcome to ECE 364! In this course we present basic concepts in machine learning for predictive data analytics:
 * **Information-based learning:** decision trees; Shannon’s entropy model; information gain; ID3 algorithm; feature selection; predicting continuous targets; tree pruning; model ensembles: boosting, bagging.
 * **Similarity-based learning:** feature spac, distance metrics, nearest neighbor algorithm, noisy data, predicting continuous targets, various measures of similarity, feature selection.
@@ -14,9 +18,9 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 * Canvas [web site](https://princeton.instructure.com/courses/3493)
 * Zoom links and TA contact information can be found on Canvas.
 * Other useful docs:
-    * [Assignment Logistics](Assignment%20Logistics.pdf)
-    * [Working with Google Colab](Working%20with%20Google%20Colab.pdf)
-    * [Working with LaTeX](Working%20with%20LaTeX.pdf)
+    * [Assignment Logistics](https://docs.google.com/viewer?url=https://github.com/JHA-Lab/ece364/raw/main/Assignment%20Logistics.pdf)
+    * [Working with Google Colab](https://docs.google.com/viewer?url=https://github.com/JHA-Lab/ece364/raw/main/Working%20with%20Google%20Colab.pdf)
+    * [Working with LaTeX](https://docs.google.com/viewer?url=https://github.com/JHA-Lab/ece364/raw/main/Working%20with%20LaTeX.pdf)
 
 ## Course staff
 
