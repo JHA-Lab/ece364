@@ -29,7 +29,7 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 
 ## Timings
 
-* Lectures: Tue/Thurs 3:00-4:20pm ()
+* Lectures: Tue/Thurs 3:00-4:20pm (Burr Hall 219)
 * Office hours:
     * Niraj K. Jha: Tue/Thurs 2:00-3:00pm
     * Shikhar Tuli: Tue/Thurs 12:30-1:30pm
