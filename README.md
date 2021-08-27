@@ -25,7 +25,7 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 ## Course staff
 
 * Instructor: [Niraj K. Jha](https://www.princeton.edu/~jha/)
-* TAs: Shikhar Tuli, Bhishma Dedhia, Vincent Li, Chang Yue
+* TAs: Shikhar Tuli, Bhishma Dedhia, Vincent Li, Chang Yue, Colin Reilly
 
 ## Timings
 
