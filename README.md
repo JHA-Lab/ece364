@@ -15,7 +15,7 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 
 ## Useful Links
 
-* Canvas [web site](https://princeton.instructure.com/courses/3493)
+* Canvas [web site](https://princeton.instructure.com/courses/4153)
 * Zoom links and TA contact information can be found on Canvas.
 * Other useful docs:
     * [Assignment Logistics](https://docs.google.com/viewer?url=https://github.com/JHA-Lab/ece364/raw/main/Assignment%20Logistics.pdf)
