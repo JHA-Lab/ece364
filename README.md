@@ -33,7 +33,7 @@ Welcome to ECE 364! In this course we present basic concepts in machine learning
 * Office hours:
     * Niraj K. Jha: Tue/Thurs 2:00-3:00pm
     * Shikhar Tuli: Tue/Thurs 12:30-1:30pm
-    * Bhishma Dedhia: Mon/Wed 12:30pm-1:30pm
+    * Bhishma Dedhia: Mon/Fri 3:30pm-4:30pm
     * Vincent Li: Mon/Wed 3:30-4:30pm
     * Chang Yue: Thurs 4:30-5:30pm, Fri 1:00-2:00pm
     * Colin Reilly: Mon/Wed 11:00am-12:00pm
